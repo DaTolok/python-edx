@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<root testAttr="testValue">
-  The Tree
+<root testAttr="testVal">
+  El Arbol de Contenido
   <children>
-    <child name="Jack">First</child>
-    <child name="Rose">Second</child>
-    <child name="Blue Ivy">
-      Third
+    <child name="Jorge">Primero</child>
+    <child name="Rosa">Segundo</child>
+    <child name="Maria Jose">
+      Tercero
       <grandchildren>
-        <data>One</data>
-        <data>Two</data>
-        <unique>Twins</unique>
+        <data>Uno</data>
+        <data>Dos</data>
+        <unique>Gemelos</unique>
       </grandchildren>
     </child>
-    <child name="Jane">Fourth</child>
+    <child name="Julieta">Cuarto</child>
   </children>
 </root>
