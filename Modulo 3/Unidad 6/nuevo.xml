@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root testAttr="testVal">
+  El Arbol de Contenido
+  <children>
+<child name="Jorge">Primero</child>
+<child name="Rosa">Segundo</child>
+<stepchild name="Jess">Tercera</stepchild>
+<child name="Julieta">Cuarto</child>
+</children>
+</root>
